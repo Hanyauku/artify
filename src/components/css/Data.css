@@ -1,0 +1,12 @@
+.info {
+    margin-top: 70px;
+    margin-left: 2%;
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    float: left;
+}
+
+.end {
+    margin-bottom: 80px;
+}
